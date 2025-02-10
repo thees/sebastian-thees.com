@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /assets/plugins/
+Sitemap: https://sebastian-thees.com/sitemap.xml
+
+User-agent: Googlebot-Image
+Disallow: /
+Allow: /assets/img/avatars/
